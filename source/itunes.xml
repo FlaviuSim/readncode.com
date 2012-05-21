@@ -1,0 +1,77 @@
+---
+layout: nil
+---
+
+<?xml version="1.0" encoding="UTF-8"?>
+<rss xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
+
+<channel>
+    <atom:link href="{{ site.url }}/itunes.xml" rel="self" type="application/rss+xml" />
+
+<title>Read 'n Code - A Podcast About Literature and Computer Programming</title>
+
+<link>{{ site.url }}</link>
+
+<language>en-us</language>
+
+<copyright>&#x2117; &amp; &#xA9; 2011 closedbracket.com &amp;</copyright>
+
+<itunes:subtitle>The best podcast about literature and computer programming.</itunes:subtitle>
+
+<itunes:author>Flaviu Simihaian</itunes:author>
+
+<itunes:summary>Read 'n Code is a show about Literature and Computer Programming by Flaviu Simihaian. Every two weeks, I read a book and compare it to a concept in software development.</itunes:summary>
+
+<description>Read 'n Code is a show about Literature and Computer Programming by Flaviu Simihaian. Every two weeks, I read a book and compare it to a concept in software development.</description>
+
+<itunes:owner>
+
+<itunes:name>Flaviu Simihaian</itunes:name>
+
+<itunes:email>flaviu@readncode.com</itunes:email>
+
+</itunes:owner>
+
+<itunes:image href="{{ site.url }}/media/images/podcast_image.png" />
+
+<itunes:category text="Technology">
+<itunes:category text="Software How-To" />
+</itunes:category>
+<itunes:category text="Arts">
+<itunes:category text="Literature" />
+</itunes:category>
+<itunes:category text="Education">
+<itunes:category text="Language Courses"/>
+</itunes:category>
+
+ <itunes:explicit>No</itunes:explicit>
+
+  {% for episode in site.posts %}{% if episode.categories contains 'Podcast' %}
+        <item>
+            <title>{{ episode.title | cdata_escape }}</title>
+
+        <itunes:author>Flaviu Simihaian</itunes:author>
+
+        <itunes:subtitle>{{ episode.subtitle | cdata_escape }}</itunes:subtitle>
+
+        <itunes:summary>{{ episode.summary | expand_urls: site.url | cdata_escape }}</itunes:summary>
+
+        <enclosure url="{{ episode.file-url }}" length="{{ episode.file-url | content_length }}"  type="audio/mpeg" />
+
+        {% if episode.guid %}
+        <guid>{{ episode.guid }}</guid>
+        {% else %}
+        <guid>{{ episode.file-url }}</guid>
+        {% endif %}
+
+        <pubDate>{{ episode.date | podcastize" }}</pubDate>
+
+        <itunes:duration>{{ episode.duration }}</itunes:duration>
+
+        <itunes:keywords>{{ episode.itunes-keywords }}</itunes:keywords>
+
+        </item>
+    {% endif %}{% endfor %}
+
+</channel>
+</rss>
