@@ -19,7 +19,7 @@ found in my research:
 I looked on StackOverflow but there was no clear winner:
 [http://stackoverflow.com/questions/7254882/line-graphs-on-ios](http://stackoverflow.com/questions/7254882/line-graphs-on-ios)
 
-Some suggested writing your own with CoreGraphics; some mentioned ShinobiControls, but it costs like  $1,000 and doesn't look all that great:
+Some suggest writing your own with CoreGraphics; some mention ShinobiControls (see screenshot above), which costs like $1,000 and that was a deterrent for me trying it. *EDIT: They do seem on top of their customer support though. ;)*
 [http://www.shinobicontrols.com/shinobicharts/price-plans/](http://www.shinobicontrols.com/shinobicharts/price-plans/)
 
 Core Plot

@@ -7,7 +7,7 @@ categories: Hacking Programming Screencast
 permalink: /blog/pair-programming-with-tmux-screencast
 ---
 
-<iframe style="margin-top: 20px" width="720" height="518" src="http://www.youtube.com/embed/za8FMIWYtUc" frameborder="0" allowfullscreen></iframe>
+<iframe width="420" height="315" src="http://www.youtube.com/embed/za8FMIWYtUc" frameborder="0" allowfullscreen></iframe>
 
 Notes/Links:
   
