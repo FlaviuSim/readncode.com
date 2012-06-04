@@ -31,7 +31,7 @@ So we need to import that data. A database copy command (postgres, mysql, sqlite
 ```python
 import csv
 from myproject.main.models import Drug
-def load_drugs3(file_path):
+def load_drugs(file_path):
     "this loads drugs from pipe delimited file with headers"
     reader = csv.DictReader(file_path)
     for row in reader:
