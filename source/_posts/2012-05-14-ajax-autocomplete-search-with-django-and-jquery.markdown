@@ -33,7 +33,7 @@ import csv
 from myproject.main.models import Drug
 def load_drugs(file_path):
     "this loads drugs from pipe delimited file with headers"
-    reader = csv.DictReader(file_path)
+    reader = csv.DictReader(open(file_path))
     for row in reader:
         drug = Drug(rxcui=row['Rxcui'], short_name=row['Short Name'], is_brand=row['Is Brand'])
         drug.save()
