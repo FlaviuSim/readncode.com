@@ -53,7 +53,7 @@ Now symlink the file above to the enabled one, because that's how nginx works:
 ln -s /etc/nginx/sites-available/default /etc/nginx/sites-enabled/default
 ```
 
-Start nginx with '/etc/init.x/nginx restart'
+Start nginx with '/etc/init.c/nginx restart'
 
 Go to a browser and try it out. Yay!
 
