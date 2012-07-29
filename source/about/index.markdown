@@ -14,11 +14,12 @@ href="http://davidson.edu">Davidson College</a> and an M.S. in Software
 Design and Engineering from <a href="http://uncc.edu">UNC Charlotte</a>.
 
 I currently live in Charlotte NC and I freelance Ruby on Rails,
-Python/Django, JavaScript, and Objective-C Development. 
+Python/Django, JavaScript, and iOS (Native) Development. 
 
 I am the founder of <a
 href="http://eval.me">eval.me</a>, a web survey company, and <a
-href="http://flavma.com">flavma.com</a>, the first Medicare Part D Plan
+href="http://flavma.com">Flavma Inc.</a>, a Pharmacy Software company
+that made [iMedicare](http://twitter.com/iMedicare), the first Medicare Part D Plan
 Finder for the iPad. I am a [Rotarian](http://rotary.org) and was
 president of the [Charlotte University City Rotary Club](http://ucrotary.com) in 2011-2012.
 
