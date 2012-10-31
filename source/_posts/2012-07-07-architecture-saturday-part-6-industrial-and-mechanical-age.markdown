@@ -38,7 +38,7 @@ Have nothing in your house that you do not know to be useful, or believe to be b
 
 The US began leading the charge with Chicago's Reliance Building (1895):
 
-{% img center http://en.structurae.de/files/photos/2621/reliance_building.jpg %}
+{% img center http://www.bc.edu/bc_org/avp/cas/fnart/fa267/reliance.jpg %}
 
 The reason Chicago became an architectural center was in part due to the 1873 fire that burnt many buildings in Chicago and allowed architects to innovate in the rebuilding process.
 
