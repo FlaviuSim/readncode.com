@@ -6,7 +6,7 @@ comments: true
 categories: Objective-C Programming
 ---
 
-Why????????????
+{% img center http://i.qkme.me/3u58sy.jpg %}
 
 Well, as the error message in XCode and as Blake Water explains in [this github issue](https://github.com/RestKit/RestKit/issues/1060) the paths don't match.
 
@@ -25,5 +25,3 @@ RKResponseDescriptor *responseDescriptor = [RKResponseDescriptor responseDescrip
 ```
 
  That's it folks. 2 hours of my time. It's yours.
-
-{% img center http://i.qkme.me/3u58sy.jpg %}
