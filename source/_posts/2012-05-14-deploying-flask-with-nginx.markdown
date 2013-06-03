@@ -30,7 +30,7 @@ Second, nginx may not be able to read the file later if the permissions don't le
 So I had to adapt it to this:
 
 ```bash
-uwsgi -s /tmp/uwsgi.sock -w flask_file_name:app -H /path/to/virtual/env --chmod-socket 666
+uwsgi -s /tmp/uwsgi.sock -w flask_file_name:app -H /path/to/virtual/env --chmod-socket=666
 ```
 
 Now, install nginx with apt-get install nginx. Change the /etc/nginx/sites-available/default to read:
