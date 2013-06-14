@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Prufrock's Startup Observations"
-date: 2013-06-14 02:32
+date: 2013-06-14 01:32
 comments: true
 categories: Startups
 ---
