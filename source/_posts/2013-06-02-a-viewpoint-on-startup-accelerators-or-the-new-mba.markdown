@@ -10,7 +10,7 @@ categories: Startups
 
 The stats above are from [Seed-Db](http://www.seed-db.com/accelerators).
 
-A year go, my startup ([iMedicare](iMedicare.com)) joined [RevTech Labs](http://revtechlabs.com/), a tech startup accelerator in Charlotte, North Carolina. We still hadn't launched the product and we knew a handful of people in the industry, through the [Python Meetup](http://www.meetup.com/python-charlotte/) I organized, and where I met [my cofounder](www.linkedin.com/pub/matthew-johnson/5b/183/ba5).
+A year go, my startup ([iMedicare](iMedicare.com)) joined [RevTech Labs](http://revtechlabs.com/), a tech startup accelerator in Charlotte, North Carolina. We still hadn't launched the product and we knew a handful of people in the industry, through the [Python Meetup](http://www.meetup.com/python-charlotte/) I organized, and where I met [my cofounder](http://www.linkedin.com/pub/matthew-johnson/5b/183/ba5).
 
 [Packard Place](http://www.meetup.com/python-charlotte/Packard Place) and RevTech Labs gave us free space for 3+ months and introduced us to our current lawyer, [Fred Hutchison](http://www.linkedin.com/in/hutchison), [Dan Black](http://www.linkedin.com/in/performancecatalyst), a business development expert that helped us (introverted tech guys) generate our first sales, and many other great advisors. We met 100+ people in 3 months.
 
