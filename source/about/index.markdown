@@ -27,4 +27,4 @@ dabbling in RubyMotion).
 I try to be involved with the tech community, having started
 the [Python and Django Meetup](http://www.meetup.com/python-django-charlotte/) and help out with the [Charlotte Ruby Meetup](http://www.meetup.com/charlotte-rb/) and [Charlotte Grok](http://www.charlottegrok.com/).
 
-You can reach me at <a href="mailto:flaviu@readncode.com">flaviu@readncode.com</a>.
+You can reach me at <a href="mailto:flaviu@readncode.com">flaviu@simihaian.com</a>.

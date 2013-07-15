@@ -105,7 +105,8 @@ disqus_short_name: readncode
 disqus_show_comment_count: false
 
 # Google Analytics
-google_analytics_tracking_id: UA-8123326-5
+#google_analytics_tracking_id: UA-8123326-5 # readncode.com
+google_analytics_tracking_id: UA-42459533-1 # flaviusim.com
 
 # Facebook Like
 facebook_like: false
