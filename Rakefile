@@ -9,7 +9,7 @@ ssh_port       = "22"
 document_root  = "~/website.com/"
 rsync_delete   = true
 deploy_default = "s3"
-s3_bucket = "www.readncode.com"
+s3_bucket = "flaviusim.com"
 
 # This will be configured for you when you run config_deploy
 deploy_branch  = "gh-pages"
