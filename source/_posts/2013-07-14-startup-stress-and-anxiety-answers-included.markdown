@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Startup Stress and Anxiety (Answers included)"
+title: "13 Ways to Avoid Startup Stress and Anxiety"
 date: 2013-07-14 23:10
 comments: true
 categories: Startups
@@ -13,19 +13,31 @@ Much has been written about startup stress [here](http://spencerfry.com/startups
 Despite this problem being seemingly solved, we get posts like My Startup has 30 Days to Live. So here's some tangential advice:
 
 
-   * Every minute spent on something other than your startup is a minute you could blankly stare at your Mac
-   * Exercising is healthy. But eating is even healthier.
-   * Stop reading TechCrunch and any industry news not directly related to your business
-   * Thinking you're not being productive enough makes you less productive
-   * Impostor Syndrome(http://en.wikipedia.org/wiki/Impostor_syndrome) is a real thing
-   * Go big AND go home. Occasionally.
-   * If you lie, believe it, stand behind it and move on. Saves you time.
-   * Every high has an imminent low. Use every friend, family member, or acquaintance conversation to refuel your social energy and get out of the low ASAP
-   * Sleep on airplanes. Only.
-   * Looking at other startups is like reading People. Waste of time.
-   * Before you doubt something, make sure you had your normal dose of caffeine
-   * No matter how bad it gets, it can't be as bad as <insert "Color" equivalent in your space>
-   * Listen to this TWiST episode with Jerry Colonna (or watch the Steve Jobs video again)
+   1. Every minute spent on something other than your startup is a minute you could blankly stare at your Mac
+
+   2. Exercising is healthy. But eating is even healthier.
+
+   3. Stop reading TechCrunch and any industry news not directly related to your business
+
+   4. Thinking you're not being productive enough makes you less productive
+
+   5. [Impostor Syndrome](http://en.wikipedia.org/wiki/Impostor_syndrome) is a real thing
+
+   6. Go big AND go home. Occasionally.
+
+   7. If you lie, believe it, stand behind it and move on. Saves you time.
+
+   8. Every high has an imminent low. Use every friend, family member, or acquaintance conversation to refuel your social energy and get out of the low ASAP
+
+   9. Sleep on airplanes. Only.
+
+   10. Looking at other startups is like reading People. Waste of time.
+
+   11. Before you doubt something, make sure you had your normal dose of caffeine
+
+   12. No matter how bad it gets, it can't be as bad as <insert "Color" equivalent in your space>
+
+   13. Listen to [this TWiST episode](http://thisweekinstartups.com/thisweekin-startups/jerry-colonna-independent-lifebusiness-coach-former-vc/) with Jerry Colonna (or watch [the Steve Jobs video](http://www.ted.com/talks/steve_jobs_how_to_live_before_you_die.html) again)
 
 
 That's it for now.
