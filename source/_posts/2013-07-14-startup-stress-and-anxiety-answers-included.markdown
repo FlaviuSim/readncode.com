@@ -23,7 +23,7 @@ Despite this problem being seemingly solved, we get posts like My Startup has 30
 
    5. [Impostor Syndrome](http://en.wikipedia.org/wiki/Impostor_syndrome) is a real thing
 
-   6. Go big AND go home. Occasionally.
+   6. Go big AND go home; Occasionally.
 
    7. If you lie, believe it, stand behind it and move on. Saves you time.
 
@@ -35,7 +35,7 @@ Despite this problem being seemingly solved, we get posts like My Startup has 30
 
    11. Before you doubt something, make sure you had your normal dose of caffeine
 
-   12. No matter how bad it gets, it can't be as bad as <insert "Color" equivalent in your space>
+   12. Always act like you have infinite money
 
    13. Listen to [this TWiST episode](http://thisweekinstartups.com/thisweekin-startups/jerry-colonna-independent-lifebusiness-coach-former-vc/) with Jerry Colonna (or watch [the Steve Jobs video](http://www.ted.com/talks/steve_jobs_how_to_live_before_you_die.html) again)
 
