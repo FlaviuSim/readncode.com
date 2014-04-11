@@ -9,7 +9,7 @@ permalink: /blog/why-blinkist-doesnt-work-with-ben-horowitz-game-of-throes
 
 {% img center http://cl.ly/image/1G3c0B3S3Y39/blinkist.png %}
 
-Ben Horrowitz’s [*The Hard Thing About hard Things*](http://www.amazon.com/The-Hard-Thing-About-Things/dp/0062273205/ref=sr_1_1?ie=UTF8&qid=1397245640&sr=8-1&keywords=hard+things) is a great book I highly recommend. [Blinkist](http://blinkist.com) is a startup that summarizes non-fiction in a 15 minute read. 
+Ben Horrowitz’s [*The Hard Thing About Hard Things*](http://www.amazon.com/The-Hard-Thing-About-Things/dp/0062273205/ref=sr_1_1?ie=UTF8&qid=1397245640&sr=8-1&keywords=hard+things) is a great book I highly recommend. [Blinkist](http://blinkist.com) is a startup that summarizes non-fiction in a 15 minute read. 
 
 A friend recommended Blinkist so I “read” a couple of books in the time it would take me to peruse the WSJ cover. But before I could pay for it, I wanted to try it on a book I had read. So, for Ben’s book the key message was:
 
@@ -19,9 +19,9 @@ Aww. Startups. So hard. But, you could be a billionaire. Ba-Dum Tshh...
 
 Wait. The book is a series of stories from Ben’s experience with advice in between the lines of each story. Stripping the details of the story and extracting the advice has 10% of the effect. There is value in the details. Summarizing pales in comparison. The lesson isn’t ever learned.
 
-{% pullquote %}
+{% blockquote %}
 Blinkist Actionable Advice: Find the right investor.
-{% pullquote %}
+{% endblockquote %}
 
 It’s like eating a donut when you’re hungry. You feel satisfied but for a much shorter period of time. Blinkist is a bunch of donuts for the brain.
 
