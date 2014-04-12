@@ -21,10 +21,9 @@ I am a proud [Rotarian](http://rotary.org) and was
 president of the [Charlotte University City Rotary Club](http://ucrotary.com) in 2011-2012.
 
 When not inking business deals or reading the New Yorker, I develop in Ruby/Rails,
-Python/Django, JavaScript, and native iOS (though I've been caught
-dabbling in RubyMotion).
+Python/Django, JavaScript, and native iOS.
 
 I try to be involved with the tech community, having started
 the [Python and Django Meetup](http://www.meetup.com/python-django-charlotte/) and help out with the [Charlotte Ruby Meetup](http://www.meetup.com/charlotte-rb/) and [Charlotte Grok](http://www.charlottegrok.com/).
 
-You can reach me at <a href="mailto:flaviu@readncode.com">flaviu@simihaian.com</a>.
+You can reach me at <a href="mailto:flaviu+website@closedbracket.com">flaviu@simihaian.com</a>.

@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Why Blinkist doesn't work with Ben Horowitz's Game of Throes"
+title: "Why Blinkist doesn't work with Ben Horowitz's 'Game of Throes'"
 date: 2014-04-11 16:31
 comments: true
 categories: Life Startups
@@ -20,12 +20,12 @@ Aww. Startups. So hard. But, you could be a billionaire. Ba-Dum Tshh...
 Wait. The book is a series of stories from Ben’s experience with advice in between the lines of each story. Stripping the details of the story and extracting the advice has 10% of the effect. There is value in the details. Summarizing pales in comparison. The lesson isn’t ever learned.
 
 {% blockquote %}
-Blinkist Actionable Advice: Find the right investor.
+Blinkist Actionable Advice: **Find the right investor.**
 {% endblockquote %}
 
 It’s like eating a donut when you’re hungry. You feel satisfied but for a much shorter period of time. Blinkist is a bunch of donuts for the brain.
 
-I know criticizing is easier than building, so I want to say that the Blinkist product looks great and they seem to have a solid team.
+Criticizing is easier than building, so I want to say that the Blinkist product looks great and they seem to have a solid team of quality writers. Summarizing well is a tough job and for the most part their writers succeed.
 
 Also, Blinkist works much better for books like Seth Godin’s Purple Cow, which only has a few key messages with a plethora of repeating examples. Blinkist gives you one of those examples, the summary of the lesson to be learned, and you can move on.
 
