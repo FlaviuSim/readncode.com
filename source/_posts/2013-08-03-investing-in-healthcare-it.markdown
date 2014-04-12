@@ -3,7 +3,7 @@ layout: post
 title: "Investing in Healthcare IT"
 date: 2013-08-03 23:15
 comments: true
-categories: Startups, Healthcare IT
+categories: Startups HealthIT
 ---
 
 {% img center http://www.onthenetoffice.com/blog/wp-content/uploads/2012/04/Healthcare-IT-Blog-12.jpg %}

@@ -3,7 +3,7 @@ layout: post
 title: "Create New Records with Bootstrap Modal and Rails Unobtrusive Javascript"
 date: 2012-05-28 19:36
 comments: true
-categories: Rails Javascript Frontend Programming
+categories: Rails Frontend Programming
 ---
 
 {% img http://cl.ly/GxW1/Screen%20Shot%202012-05-28%20at%209.10.25%20PM.png %}
